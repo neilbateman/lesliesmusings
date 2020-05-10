@@ -1,9 +1,9 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: You can add products/services if you want
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading:  This is where Leslie can sell stuff
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
