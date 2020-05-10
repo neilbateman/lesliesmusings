@@ -5,8 +5,8 @@ image: /img/ocean.jpg
 heading: Thoughts on Life and Such
 subheading: This is a subheading
 mainpitch:
-  title: asdf
-  description: asdf
+  title: Here is a title
+  description: Here is a description
 description: Description
 intro:
   blurbs: []
