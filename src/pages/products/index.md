@@ -1,4 +1,4 @@
----
+<!-- ---
 templateKey: 'product-page'
 path: /products
 title: You can add products/services if you want
@@ -98,4 +98,4 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
----
+--- -->
