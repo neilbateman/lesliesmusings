@@ -33,6 +33,8 @@ const TemplateWrapper = ({ children }) => {
           sizes="16x16"
         />
 
+
+
         <link
           rel="mask-icon"
           href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
