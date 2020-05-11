@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'The personal blog of Leslie Bateman',
-    description:
-      'The musings of Leslie Bateman',
+    title: 'My Musings',
+    description: 'The personal blog site of Leslie Bateman',
+  },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
